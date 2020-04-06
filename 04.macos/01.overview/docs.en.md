@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-Modern users spend a lot of time on the Internet, and Apple device owners are no exception. The macOS developers did everything to make Mac users comfortable working with their products. However, the operating system still isn’t capable of protecting them from annoying ads, while the blockers currently available on the market can’t filter all types of advertising – for instance, block commercial videos on YouTube or other similar services.
+Users spend a lot of time on the Internet, and Apple device owners are no exception. The macOS developers did everything to make Mac users comfortable working with their products. However, the operating system still isn’t capable of protecting them from annoying ads, while the blockers currently available on the market can’t filter all types of advertising – for instance, block commercial videos on YouTube or other similar services.
 
 AdGuard for macOS is a unique app made particularly for blocking ads, protecting users from phishing and personal data gathering on the Internet, that takes cue from macOS architecture. AdGuard can work with Safari as well as with any other compatible browser. Apart from video ads and banners, AdGuard for macOS is able to filter other annoying website elements, such as contact forms, online consultation modules, etc. Moreover, AdGuard is able to block ads in various macOS applications without interfering with their work. This app doesn’t need to be specifically adjusted – your Mac will be protected by AdGuard right after you install it.
 
